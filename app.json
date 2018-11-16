@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#2f2f2f",
+    "navigationBarTitleText": "chen-yt @ github",
+    "navigationBarTextStyle":"white"
+  }
+}

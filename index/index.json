@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "multiFormid": "../../components/multiFormId/multiFormid"
+  }
+}
